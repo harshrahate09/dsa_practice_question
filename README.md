@@ -1,6 +1,7 @@
 # dsa_practice_question
 <h3><b> Based on Number/Digits </b></h3>
-1. Sum of Digit of Number
+<li>
+1. Sum of Digit of Number 
 2. Reverse Number
 3. Palindrome Number
 4. Armstrong Number
@@ -60,6 +61,7 @@ Find the maximum element in an array
 34. find maximum difference between any two element in an array count the positive
 number in an array
 35. count the negative number in an array
+</li>  
 Based on String
 1. Reverse String
 2. check string palindrome or not
