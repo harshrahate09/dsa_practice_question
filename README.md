@@ -67,8 +67,7 @@ Based on String
 37. find common character in the 2 strings
 
 
-Based on Array
-1.Find the maximum element in an array
+Find the maximum element in an array
 2. find the minimum element in an array
 3. count the even numbers in an array
 4. count the odd numbers in an array
