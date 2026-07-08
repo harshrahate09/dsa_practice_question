@@ -66,8 +66,8 @@ Based on String
 36. replace substring with another substring
 37. find common character in the 2 strings
 
-
-Find the maximum element in an array
+Based on array
+1.Find the maximum element in an array
 2. find the minimum element in an array
 3. count the even numbers in an array
 4. count the odd numbers in an array
