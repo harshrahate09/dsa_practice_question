@@ -20,6 +20,6 @@ class Main{
         else{
             System.out.println("Not Palindrome");
         }
+        sc.close();
     }
-    sc.close();
 }

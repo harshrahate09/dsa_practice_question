@@ -40,6 +40,5 @@ class Main{
         System.out.println(secondLargest(num));
         sc.close();
     
-} 
-    
+    }    
 }
