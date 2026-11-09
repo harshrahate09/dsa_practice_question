@@ -21,4 +21,5 @@ class Main{
             System.out.println("Not Palindrome");
         }
     }
+    sc.close();
 }
